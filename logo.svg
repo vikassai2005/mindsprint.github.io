@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#f8f9fa" stroke="#3498db" stroke-width="3"/>
+  
+  <!-- Brain Icon -->
+  <path d="M100 40 C 60 40, 40 70, 40 100 C 40 130, 60 160, 100 160 C 140 160, 160 130, 160 100 C 160 70, 140 40, 100 40 Z" fill="none" stroke="#2ecc71" stroke-width="3" stroke-linecap="round"/>
+  <path d="M70 80 Q 85 65, 100 80 Q 115 65, 130 80" fill="none" stroke="#2ecc71" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 100 Q 80 85, 100 100 Q 120 85, 140 100" fill="none" stroke="#2ecc71" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 120 Q 80 105, 100 120 Q 120 105, 140 120" fill="none" stroke="#2ecc71" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Lightning Bolt -->
+  <path d="M95 60 L 85 100 L 105 100 L 95 140" fill="none" stroke="#3498db" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text -->
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">Mindsprint2K25</text>
+</svg>

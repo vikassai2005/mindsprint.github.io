@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <!-- Background gradient -->
+  <rect width="1920" height="1080" fill="#2c3e50"/>
+  
+  <!-- Abstract pattern -->
+  <g opacity="0.1" fill="#ffffff">
+    <!-- Circles -->
+    <circle cx="200" cy="200" r="100"/>
+    <circle cx="500" cy="400" r="150"/>
+    <circle cx="900" cy="200" r="80"/>
+    <circle cx="1300" cy="300" r="120"/>
+    <circle cx="1700" cy="500" r="90"/>
+    <circle cx="300" cy="800" r="130"/>
+    <circle cx="700" cy="700" r="100"/>
+    <circle cx="1100" cy="900" r="110"/>
+    <circle cx="1500" cy="800" r="140"/>
+    <circle cx="1800" cy="200" r="70"/>
+    
+    <!-- Lines -->
+    <path d="M0,300 L1920,600" stroke="#ffffff" stroke-width="5"/>
+    <path d="M0,700 L1920,400" stroke="#ffffff" stroke-width="5"/>
+    <path d="M300,0 L600,1080" stroke="#ffffff" stroke-width="5"/>
+    <path d="M1200,0 L900,1080" stroke="#ffffff" stroke-width="5"/>
+    <path d="M1800,0 L1500,1080" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  
+  <!-- Tech-related symbols -->
+  <g opacity="0.15" fill="#3498db">
+    <rect x="100" y="100" width="50" height="50"/>
+    <rect x="400" y="200" width="70" height="70"/>
+    <rect x="800" y="300" width="60" height="60"/>
+    <rect x="1200" y="150" width="80" height="80"/>
+    <rect x="1600" y="250" width="50" height="50"/>
+    <rect x="200" y="600" width="70" height="70"/>
+    <rect x="600" y="700" width="60" height="60"/>
+    <rect x="1000" y="800" width="50" height="50"/>
+    <rect x="1400" y="650" width="80" height="80"/>
+    <rect x="1800" y="750" width="60" height="60"/>
+  </g>
+</svg>
